@@ -27,7 +27,7 @@ return [
         ],
         'free' => [
             'title' => 'Gratis',
-            'description' => 'El proyecto es y siempre será gratuito. Ninguna asociación tendrá que pagar para poder usarlo o descargarlo. Es nuestra forma de poner un granito de arena al mundo aniaml.',
+            'description' => 'El proyecto es y siempre será gratuito. Ninguna asociación tendrá que pagar para poder usarlo o descargarlo. Es nuestra forma de poner un granito de arena al mundo animal.',
         ],
         'updates' => [
             'title' => 'Actualizaciones',
