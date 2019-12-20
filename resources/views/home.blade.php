@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="max-w-screen-xl m-auto mt-32">
+    <div class="max-w-screen-xl m-auto mt-16 lg:mt-32">
         <section class="w-full flex flex-wrap items-center px-8">
             <div class="w-full lg:w-1/2 font-light pr-5">
                 <h2 class="text-5xl mb-5">Suky<i class="fas fa-heart title-icon animated infinite pulse slow"></i>CMS </h2>
