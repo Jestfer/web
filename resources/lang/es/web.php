@@ -68,7 +68,7 @@ return [
     ],
 
     'footer' => [
-        'copyright' => 'Copyright &copy; :date - :name. Todos los derechos reservados',
+        'copyright' => 'Copyright &copy; :date - :name.',
         'made_by' => 'Hecho por :author con :icon',
     ],
 
