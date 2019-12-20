@@ -19,27 +19,27 @@ return [
 
         'easy' => [
             'title' => 'Fácil',
-            'description' => '',
+            'description' => 'El proyecto está pensado para que las personas con poco conocimiento informático puedan usarlo. No requiere de ningún conocimiento, simplemente acostumbrarse a su interfaz y empezar a gestionar.',
         ],
         'custom' => [
             'title' => 'Especializado',
-            'description' => '',
+            'description' => 'El proyecto está creado desde 0 por y para la gestión de asociaciones de animales. A diferencia de otros proyectos, está pensado desde el principio para facilitar la gestión de las asociaciones.',
         ],
         'free' => [
             'title' => 'Gratis',
-            'description' => '',
+            'description' => 'El proyecto es y siempre será gratis. Ninguna asociación tendrá que pagar para poder usarlo o descargarlo.',
         ],
         'updates' => [
             'title' => 'Actualizaciones',
-            'description' => '',
+            'description' => 'El proyecto se está actualizando continuamente con nuevos cambios, mejoras y correcciones.',
         ],
         'security' => [
             'title' => 'Seguridad',
-            'description' => '',
+            'description' => 'La seguridad es muy importante en el proyecto. Mantenemos el software actualizado a la última versión, realizamos copias de seguridad diariamente, entre otras cosas.',
         ],
         'open' => [
             'title' => 'Libre',
-            'description' => '',
+            'description' => 'El código del proyecto es libre, esto quiere decir que cualquier usuario de internet puede consultarlo, revisarlo e incluso ayudar con su desarrollo.',
         ],
     ],
 
