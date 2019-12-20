@@ -27,6 +27,10 @@ task('npm', function () {
     upload('public/mix-manifest.json', '{{release_path}}/public');
 });
 
+task('reload:php-fpm', function () {
+    run('sudo /usr/sbin/service php7.3-fpm reload');
+});
+
 after('deploy:failed', 'deploy:unlock');
 after('deploy:vendors', 'npm');
-
+after('deploy', 'reload:php-fpm');
