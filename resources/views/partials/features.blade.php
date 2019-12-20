@@ -1,7 +1,7 @@
 <section id="features" class="features">
     <div class="features-bg"></div>
     <div class="max-w-screen-xl m-auto">
-        <p class="text-5xl text-center font-thin mt-48 pt-20 mb-24">{{ __('web.features.title') }}</p>
+        <p class="text-5xl text-center font-thin mt-12 lg:mt-48 pt-20 mb-12 lg:mb-24">{{ __('web.features.title') }}</p>
 
         <div class="w-full flex flex-wrap pb-24 text-center md:text-left">
             <div class="w-full md:w-1/2 lg:w-1/3 mb-12 lg:mb-24 px-8">
