@@ -24,7 +24,7 @@
                 </form>
             </div>
             <div class="w-full lg:w-1/2 mt-12 lg:mt-0">
-                <img src="{{ asset('images/pets.png') }}" alt="SukyCMS - Pets" class="max-w-md m-auto">
+                <img src="{{ asset('images/pets.png') }}" alt="SukyCMS - Pets" class="m-auto">
             </div>
         </section>
     </div>

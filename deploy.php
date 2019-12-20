@@ -2,6 +2,8 @@
 
 namespace Deployer;
 
+use Symfony\Component\Console\Input\InputArgument;
+
 require 'recipe/laravel.php';
 
 set('application', 'web');
@@ -11,6 +13,8 @@ set('git_tty', true);
 add('shared_files', []);
 add('shared_dirs', []);
 add('writable_dirs', []);
+
+option('skip-build', null, InputArgument::OPTIONAL, 'Skip NPM build', false);
 
 host('sukycms.com')
     ->set('deploy_path', '/var/www/sukycms/{{application}}');
