@@ -6,7 +6,7 @@ return [
     'description' => 'El gestor gratuito para asociaciones protectoras de animales',
 
     'what_is' => '¿Qué es SukyCMS?',
-    'what_is_text' => 'SukyCMS es un software de gestión gratuito para asociaciones protectoras de animales. Un proyecto que ofrece la posibilidad de tener una página web. Cada protectora tendrá total libertad y podrá gestionar todo a través de un completo panel de administración.',
+    'what_is_text' => 'SukyCMS es un software de gestión gratuito para asociaciones protectoras de animales. Crea la página web para la asociación con la que colaboras en cuestión de segundos y empieza a gestionarla.',
     'email' => 'Correo electrónico',
     'contact' => 'Contacto',
 
@@ -27,11 +27,11 @@ return [
         ],
         'free' => [
             'title' => 'Gratis',
-            'description' => 'El proyecto es y siempre será gratis. Ninguna asociación tendrá que pagar para poder usarlo o descargarlo.',
+            'description' => 'El proyecto es y siempre será gratuito. Ninguna asociación tendrá que pagar para poder usarlo o descargarlo. Es nuestra forma de poner un granito de arena al mundo aniaml.',
         ],
         'updates' => [
             'title' => 'Actualizaciones',
-            'description' => 'El proyecto se está actualizando continuamente con nuevos cambios, mejoras y correcciones.',
+            'description' => 'El proyecto se está actualizando continuamente con nuevos cambios, mejoras y correcciones. Las actualizaciones son automáticas, por lo que los voluntarios no tienen que estar pendientes.',
         ],
         'security' => [
             'title' => 'Seguridad',
@@ -65,6 +65,11 @@ return [
                 <p class="mt-5 font-thin">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T).</p>
             ',
         ]
+    ],
+
+    'footer' => [
+        'copyright' => 'Copyright &copy; :date - :name. Todos los derechos reservados',
+        'made_by' => 'Hecho por :author con :icon',
     ],
 
     'actions' => [
