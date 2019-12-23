@@ -27,7 +27,7 @@ return [
         ],
         'free' => [
             'title' => 'Free',
-            'description' => 'The project is and will always be free. Shelters won't have to pay to download or use it. This is our way to do our bits for the animal world.',
+            'description' => 'The project is and will always be free. Shelters won\'t have to pay to download or use it. This is our way to do our bits for the animal world.',
         ],
         'updates' => [
             'title' => 'Updates',
