@@ -69,7 +69,7 @@ return [
 
     'footer' => [
         'copyright' => 'Copyright &copy; :date - :name.',
-        'made_by' => 'Developed by :author con :icon',
+        'made_by' => 'Developed by :author with :icon',
     ],
 
     'actions' => [
